@@ -1,1 +1,1 @@
-npm install --save-dev html-validate
+html-validate index.html
